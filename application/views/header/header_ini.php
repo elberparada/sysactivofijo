@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Dashboard - Sistema Activo Fijo</title>
+    <title>Dashboard - Sistema Activo Fijos</title>
 
 
     <!-- Bootstrap core CSS -->
