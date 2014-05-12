@@ -58,3 +58,4 @@ class Admin extends CI_Controller {
 } /*END CLASS*/
 /* End of file welcome.php */
 /* Location: ./application/controllers/welcome.php */
+#HOLA
